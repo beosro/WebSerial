@@ -1,5 +1,5 @@
 # Changes provided by this fork
-1. Support for multiple `#include <WebSerial.h>` without linking errors
+1. Support for multiple `#include <WebSerial.h>` without linking errors.
 2. Protect `print()` and `println()` methods from null pointer.
 
 <p align="center"><img src="https://raw.githubusercontent.com/ayushsharma82/WebSerial/master/docs/logo.svg?sanitize=true" width="450"></p>
